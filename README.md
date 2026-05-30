@@ -44,7 +44,7 @@
     <h3>Contact</h3>
     <p>Email: a2024it11410@gmail.com</p>
     <p>LinkedIn: https://www.linkedin.com/in/kashish-rana-6144b1345</p>
-    <p>GitHub: </p>
+    <p>GitHub: https://github.com/Kashishhrana</p>
 
     <hr>
 
